@@ -20,7 +20,7 @@ st.set_page_config(page_title="Eyes ON Cam",
 show_icon(":eyes:")
 
 st.markdown("# Eyes :eyes: ON Cam :camera:")
-st.write("시각장애인을 위한 스마트폰 사진기 음성안내 애플리케이션")
+st.write("시각장애인을 위한 사진기 음성안내 서비스")
 st.write("Bitamin 2조")
 
 if st.button(":camera: 전면카메라"):
